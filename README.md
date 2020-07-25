@@ -1,16 +1,33 @@
-### Hi there 👋
+<img src="./banner.png" alt="banner that says DAVID THOMPSON">
+---
 
-<!--
-**ysdexlic/ysdexlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm David, a Software Engineer from London.
 
-Here are some ideas to get you started:
+I am a very user-focused engineer, I believe in creating experiences that
+everyone can interact with and enjoy. Coming from a musical background I see
+myself as quite creative, I have more of an affinity for Frontend development
+because of my love of sleek & innovative design but I also love creating and
+architecting scalable Backend services and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages** _(in order of experience)_:
+ - JavaScript/Node
+ - Python
+ - Rust
+ - Golang
+
+**Key Technologies**:
+- ES6+
+- React/Vue
+- React Native
+- GraphQL
+- Docker
+- Kubernetes
+- CI/CD
+- AWS/GCP
+
+**Likes**:
+- Playing music (I play the Banjo and the Bass Guitar)
+- Smart home
+- Animals (especially penguins and cats)
+- Plants & flowers
+- Vim
