@@ -1,5 +1,4 @@
-<img src="./banner.png" alt="banner that says DAVID THOMPSON">
----
+# <img src="https://raw.githubusercontent.com/ysdexlic/ysdexlic/master/banner.png" alt="banner that says DAVID THOMPSON">
 
 Hi I'm David, a Software Engineer from London.
 
