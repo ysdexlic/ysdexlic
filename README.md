@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/ysdexlic/ysdexlic/master/banner.png" alt="banner that says DAVID THOMPSON">
-
 Hi I'm David, a Software Engineer from London.
 
 I am a very user-focused engineer, I believe in creating experiences that
@@ -8,11 +6,11 @@ myself as quite creative, I have more of an affinity for Frontend development
 because of my love of sleek & innovative design but I also love creating and
 architecting scalable Backend services and APIs.
 
-**Languages** _(in order of experience)_:
+**Languages**:
  - JavaScript/Node
  - Python
- - Golang
  - Rust
+ - Go
 
 **Key Technologies**:
 - ES6+
